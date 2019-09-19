@@ -15,23 +15,6 @@
     color: gray;
 }
 
-
-.contact{
-    float: left;
-    margin-left: 5px;
-}
-
-.portfolio{
-    float: left;
-    margin-left: 5px;
-    margin-right: 5px;
-}
-
-.about{
-    float: left;
-    margin-right: 5px;
-}
-
 .Info{
     font-size: 25px;
     border: 1px solid grey;
