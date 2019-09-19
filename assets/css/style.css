@@ -8,7 +8,7 @@
 
 .buttons{
     float: right;
-    padding: 50px;
+    padding: 40px;
 }
 
 .buttons :active{
@@ -85,7 +85,7 @@
         background-color: white;
     }
     .wrapper{
-        width: 590px;
+        width: 500px;
     }
 }
 
